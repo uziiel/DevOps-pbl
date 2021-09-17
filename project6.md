@@ -34,3 +34,4 @@ Step 1 setup redhat ec2 instance and add volume
 Step 3 - Instal WordPress
 ![Screenshot 2021-09-17 at 13 01 24](https://user-images.githubusercontent.com/90186229/133779465-311c2b71-aee0-4484-afec-0bf292d1ff30.png)
 
+
