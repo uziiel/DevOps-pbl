@@ -20,4 +20,6 @@ Client and Server mysql installed
 Configuring mysql server for remote connection
 ![Screenshot 2021-09-15 at 23 30 15](https://user-images.githubusercontent.com/90186229/133518354-dee228c6-d8d2-40cf-9728-9e836cea277c.png)
 
+Successfully connect and displayed databases from the client server terminal
+![Screenshot 2021-09-17 at 16 06 48](https://user-images.githubusercontent.com/90186229/133805717-fa5cc0db-d064-4e3b-a7b2-1a8bb23a3b00.png)
 
